@@ -1,0 +1,3 @@
+导入Numpy函数库
+from numpy import *
+
